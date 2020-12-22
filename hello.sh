@@ -1,4 +1,3 @@
 #! /bin/bash -x
-echo "Welcome"
-echo "hello world"
+echo "Welcom"
 echo "Sai Spandana"
