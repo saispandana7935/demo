@@ -1,3 +1,2 @@
 #! /bin/bash -x
-echo "Welcome"
-
+ echo "Welcome"
